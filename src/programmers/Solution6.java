@@ -18,7 +18,6 @@ public class Solution6 {
         for(int i=0; i<len; i++) {  //a 배열의 값 입력
             a[i]=scan.nextInt();
         }
-        System.out.println();
         for(int i=0; i<len; i++) {  //b 배열의 값 입력
             b[i]=scan.nextInt();
         }
